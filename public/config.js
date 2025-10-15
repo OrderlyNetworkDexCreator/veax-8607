@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Leaderboard,Vaults",
-  "VITE_CUSTOM_MENUS": "Veax Swap, https://app.veax.com/; Telegram, https://t.me/veaxlabs",
+  "VITE_CUSTOM_MENUS": "Veax Swap, https://app.veax.com/; Veax Telegram, https://t.me/veaxlabs",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/veaxlabs",
   "VITE_DISCORD_URL": "",
