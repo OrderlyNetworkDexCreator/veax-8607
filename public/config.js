@@ -33,6 +33,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "DEX, Decentralised Trading, Decentralised Perps DEX, Multichain Perps DEX, VEAX, Near Intents",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "7",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "8",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
 };
