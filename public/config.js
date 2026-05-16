@@ -1,10 +1,11 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "veaxdex",
   "VITE_ORDERLY_BROKER_NAME": "VEAX",
+  "VITE_BROKER_EOA_ADDRESS": "0x9ccb086a684b0a498ebcdce17a7fd339672c64b9",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
   "VITE_ORDERLY_MAINNET_CHAINS": "1,56,900900900,42161,10,8453",
-  "VITE_ORDERLY_TESTNET_CHAINS": "421614,84532,97,901901901,11124",
+  "VITE_ORDERLY_TESTNET_CHAINS": "421614,97,10143,11124,901901901",
   "VITE_DEFAULT_CHAIN": "",
   "VITE_PRIVY_APP_ID": "cmgfclks7010jic0c5l9l7vxs",
   "VITE_PRIVY_LOGIN_METHODS": "email",
@@ -17,8 +18,9 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Multichain Perps Dex",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Leaderboard,Vaults,Portfolio,Rewards",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Rewards",
   "VITE_CUSTOM_MENUS": "Veax Swap, https://swap.veax.com; Veax Telegram, https://t.me/veaxlabs",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/veaxlabs",
   "VITE_DISCORD_URL": "",
@@ -34,5 +36,9 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "8",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": ""
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "",
+  "VITE_ANALYTICS_SCRIPT": "",
+  "VITE_SYMBOL_LIST": "",
+  "VITE_RESTRICTED_REGIONS": "",
+  "VITE_WHITELISTED_IPS": ""
 };
